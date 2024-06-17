@@ -2,9 +2,9 @@
 ## <center> [![Paper](https://img.shields.io/badge/arXiv-2311.11178-b31b1b.svg)](https://arxiv.org/abs/2311.11178)  [![Youtube Badge](https://img.shields.io/badge/Youtube-b31b1b?style=round-square&logo=youtube&link=https://www.youtube.com/c/ZipCookResearcher)](https://www.youtube.com/watch?v=JHC9zaDYf5o&ab_channel=%08ZipCookResearcher)  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.48550/arXiv.2311.11178)](https://juleskreuer.eu/citation-badge/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This repository is the official PyTorch implementation of the following paper. 
  
-> **Active Prompt Learning in Visual Language Models** 
->Jihwan Bang, Sumyeong Ahn, Jae-Gil Lee 
->CVPR 2024 
+> **Active Prompt Learning in Visual Language Models** <br>
+>Jihwan Bang, Sumyeong Ahn, Jae-Gil Lee <br>
+>CVPR 2024 <br>
 
 <img src='architecture.png'>
 
